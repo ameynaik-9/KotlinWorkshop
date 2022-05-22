@@ -8,8 +8,8 @@ S.No.      Name       Roll No.     Branch       Covid Positive
   7       Chloe       4283661       CHE              no
   8       Jacob       3246617       CSE              no
   9       Daniel      8783261       MIN              no
-  10      Hazel       2361718       ECE              no
-  11      Lily        3462691       CSE              yes
+  10      Abhish      2361718       ECE              no
+  11      hehe        3462691       CSE              yes
   12      Jack        5672351       CHE              no
   13      Nora        4123894       PHE              no
   14      Owen        4898291       PHE              no
