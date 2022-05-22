@@ -1,5 +1,5 @@
 S.No.      Name       Roll No.     Branch       Covid Positive
-  1       Oliver      2138129       ECE              yes
+  1       Amey     2138129       ECE              yes
   2       William     4662376       MIN              no
   3       Sophia      1263612       CSE              no
   4       Lucy        3248462       CSE              no
